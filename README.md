@@ -1,4 +1,3 @@
-# Terra-Research
 # Is Terra a good Blockchain?
 
 ## What is Terra?
