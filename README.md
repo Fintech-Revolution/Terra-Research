@@ -48,3 +48,4 @@ So the conclusion is that it is great base to build on as it has great opportuni
 - https://www.terra.money/
 - https://dyor-crypto.fandom.com/wiki/Terra_(LUNA)
 - https://sashares.co.za/terra-review/
+- https://forkast.news/what-is-terra-luna-stablecoin/
