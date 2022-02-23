@@ -13,6 +13,8 @@ Terra bills itself as a next-generation blockchain payment network interwoven wi
 
 Terra's developing language is Rust, the Smart Contracts are called CosmWasm Smart Contracts. They have their own Academy to get you started into developing on Terra more modules coming soon, like libraries, deploy and testing. Terra Software Development Kit (SDK) in Python is a simple library toolkit for building software that can interact with the Terra blockchain and provides simple abstractions over core data structures, serialization, key management, and API request generation.
 
+Here the video playslist of the academy: https://www.youtube.com/watch?v=BXHU5kLVlY8&list=PL-1j57N4qfImfGH_WpOyZdLr1xDpNJdWS
+
 ## What about Terra's Community?
 
 Terra's has a big community with a $20,770,520,937 market cap, standing in the top 10 of Cryptocurrency Prices by Market Cap and just one place behind Solana.
