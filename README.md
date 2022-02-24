@@ -11,7 +11,7 @@ Terra bills itself as a next-generation blockchain payment network interwoven wi
 
 ## What about developing on Terra?
 
-Terra's developing language is Rust, the Smart Contracts are called CosmWasm Smart Contracts. They have their own Academy to get you started into developing on Terra more modules coming soon, like libraries, deploy and testing. Terra Software Development Kit (SDK) in Python is a simple library toolkit for building software that can interact with the Terra blockchain and provides simple abstractions over core data structures, serialization, key management, and API request generation.
+Terra's developing language is Rust, the Smart Contracts are called CosmWasm Smart Contracts. They have their own Academy to get you started into developing on Terra more modules coming soon, like libraries, deploy and testing. Terra Software Development Kit (SDK) in Python and the Terra.js are  simple libraries for building software that can interact with the Terra blockchain and provides simple abstractions over core data structures, serialization, key management, and API request generation. 
 
 Here the video playslist of the academy: https://www.youtube.com/watch?v=BXHU5kLVlY8&list=PL-1j57N4qfImfGH_WpOyZdLr1xDpNJdWS
 
@@ -51,3 +51,4 @@ So the conclusion is that it is great base to build on as it has great opportuni
 - https://dyor-crypto.fandom.com/wiki/Terra_(LUNA)
 - https://sashares.co.za/terra-review/
 - https://forkast.news/what-is-terra-luna-stablecoin/
+- https://blog.logrocket.com/developing-terra-smart-contracts/
